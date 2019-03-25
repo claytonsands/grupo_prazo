@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebAPI",
+    "\\WebAPI\\packages\\Microsoft.AspNet.Razor.3.2.3",
+    "\\WebAPI\\packages\\Microsoft.AspNet.WebApi.5.2.3",
+    "\\WebAPI\\packages\\Microsoft.AspNet.WebApi.Core.5.2.3",
+    "\\WebAPI\\packages\\Microsoft.AspNet.WebApi.Core.5.2.3\\Content",
+    "\\WebAPI\\WebAPI"
+  ],
+  "SelectedNode": "\\WebAPI",
+  "PreviewInSolutionExplorer": false
+}

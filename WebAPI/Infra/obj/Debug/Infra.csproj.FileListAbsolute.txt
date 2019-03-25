@@ -1,0 +1,14 @@
+C:\Users\leand\source\repos\web-api-c-\WebAPI\Infra\obj\Debug\Infra.csprojAssemblyReference.cache
+C:\Users\leand\source\repos\web-api-c-\WebAPI\Infra\obj\Debug\Infra.csproj.CoreCompileInputs.cache
+C:\Users\leand\source\repos\web-api-c-\WebAPI\Infra\bin\Debug\Infra.dll.config
+C:\Users\leand\source\repos\web-api-c-\WebAPI\Infra\bin\Debug\Infra.dll
+C:\Users\leand\source\repos\web-api-c-\WebAPI\Infra\bin\Debug\Infra.pdb
+C:\Users\leand\source\repos\web-api-c-\WebAPI\Infra\bin\Debug\Dominio.dll
+C:\Users\leand\source\repos\web-api-c-\WebAPI\Infra\bin\Debug\EntityFramework.dll
+C:\Users\leand\source\repos\web-api-c-\WebAPI\Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\leand\source\repos\web-api-c-\WebAPI\Infra\bin\Debug\Dominio.pdb
+C:\Users\leand\source\repos\web-api-c-\WebAPI\Infra\bin\Debug\EntityFramework.xml
+C:\Users\leand\source\repos\web-api-c-\WebAPI\Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\leand\source\repos\web-api-c-\WebAPI\Infra\obj\Debug\Infra.csproj.CopyComplete
+C:\Users\leand\source\repos\web-api-c-\WebAPI\Infra\obj\Debug\Infra.dll
+C:\Users\leand\source\repos\web-api-c-\WebAPI\Infra\obj\Debug\Infra.pdb
